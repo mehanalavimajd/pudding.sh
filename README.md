@@ -1,21 +1,24 @@
 # easysh
-aliases for terminal commands for Ubuntu and Debian
+aliases for terminal commands for linux distros.
 # installation and Usage
+first make sure you have installed make  :
+```
+make --version
+```
+if not :
+```bash
+# Debian based
+sudo apt install make
+# Redhat based
+sudo dnf install make
+```
 
-1.
+after cloning the repo :
 ```bash
-$ git clone https://github.com/mehanalavimajd/easysh.git
+make # or make start or ./setup.sh
 ```
-2.
-```bash
-$ cp ./dist/easysh.sh ~/easysh.sh
+and then :
 ```
-3 .
-```bash
-nano .bashrc
+~/.profile
 ```
-4 . and add 
-```bash 
-source ./easysh.sh
-```
-at the end line
+done !!!

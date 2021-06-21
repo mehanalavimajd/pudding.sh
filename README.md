@@ -15,7 +15,7 @@ sudo dnf install make
 
 after cloning the repo :
 ```bash
-make # or make start or ./setup.sh
+./setup.sh
 ```
 and then :
 ```

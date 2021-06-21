@@ -1,4 +1,0 @@
-start :
-	@./setup.sh
-
-

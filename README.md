@@ -1,4 +1,4 @@
-# easysh
+# Simple.sh
 aliases for terminal commands for linux distros.
 # installation and Usage
 after cloning the repo :

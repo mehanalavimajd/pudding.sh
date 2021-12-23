@@ -1,13 +1,17 @@
-# Simple.sh
+# Pudding.sh
 aliases for terminal commands for linux distros.
 # installation and Usage
-after cloning the repo :
+clone the repo (install git if you don't have) :
 ```bash
-./setup.sh
+git clone https://github.com/mehanalavimajd/pudding.sh
 ```
-and then restart your terminal or enter this command :
+Then install it globally (install make if you don't have):
 ```bash
-~/.profile
+make install
+``` 
+and for testing run :
+```bash
+cls
 ```
 ## Table of aliases
 ### terminal aliases

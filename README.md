@@ -5,12 +5,12 @@ after cloning the repo :
 ```bash
 ./setup.sh
 ```
-and then :
-```
+and then restart your terminal or enter this command :
+```bash
 ~/.profile
 ```
-done !!!
 ## Table of aliases
+### terminal aliases
 |Name |Usage|
 |-----|--------|
 |cls  | will clear the terminal       |
